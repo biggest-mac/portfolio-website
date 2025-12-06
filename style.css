@@ -12,12 +12,12 @@ img {
   width: 100%;
 }
 
-sidepanel {
+body {
   background-image: url("./MEAT AND POTATOES/images/onmyputer.jpg");
 }
 
-mySidepanel {
-  background-image: url("./MEAT AND POTATOES/images/onmyputer.jpg");
+body {
+  background-image: url("../MEAT AND POTATOES/images/onmyputer.jpg");
 }
 
 
