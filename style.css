@@ -11,10 +11,13 @@ img {
   max-height: 50%;
   width: 100%;
 }
+
 sidepanel {
-  background-image: MEAT AND POTATOES/images/("onmyputer.jpg");
+  background-image: url("MEAT AND POTATOES/images/onmyputer.jpg");
 }
 
 mySidepanel {
-  background-image: MEAT AND POTATOES/images/("onmyputer.jpg");
+  background-image: url("MEAT AND POTATOES/images/onmyputer.jpg");
 }
+
+
