@@ -11,4 +11,6 @@ img {
   max-height: 50%;
   width: 100%;
 }
-
+pre {
+  background-image: MEAT AND POTATOES/images/("onmyputer.jpg");
+}
