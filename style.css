@@ -5,7 +5,7 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
-
+/*For the gallery.html page*/
 /*This will line everything in the container tag into one column*/
 .container{
   display: flex;
@@ -13,6 +13,7 @@
   justify-content: center;
   align-items: center;
   text-align: center;
+  margin: 40px 20px 0px 20px;
 }
 
 
