@@ -63,9 +63,5 @@
 .container .box .card .blogimg{
   background-color: #aaa;
   padding: 0px;
-}
-
-.container .box .card .p{
-  width: 100%;
-  padding-bottom: 10px;
+  border-radius: 5px;
 }
