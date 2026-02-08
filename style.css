@@ -39,6 +39,7 @@
 .container .box .dream img{
   width: 100%;
   padding-bottom: 10px;
+  border-radius: 5px;
 }
 
 /*Making the page responsive*/
