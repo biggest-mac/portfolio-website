@@ -6,7 +6,7 @@
   font-family: 'Poppins', sans-serif;
 }
 
-/*This will line everything up into one column*/
+/*This will line everything in the container tag into one column*/
 .container{
   display: flex;
   flex-direction: column;
