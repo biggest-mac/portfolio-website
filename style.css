@@ -54,12 +54,13 @@
 
 .container .card{
   background-color: orange;
-  padding: 20px;
-  margin-top: 20px;
+  padding: 5px;
+  margin-top: 0px;
+  border-radius: 5px;
 }
 
 .container .blogimg{
   background-color: #aaa;
   width: 100%;
-  padding: 20px;
+  padding: 5px;
 }
