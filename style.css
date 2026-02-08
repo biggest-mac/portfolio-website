@@ -62,5 +62,6 @@
 .container .blogimg{
   background-color: #aaa;
   width: 100%;
-  padding: 5px;
+  padding: 0px;
+ /* border-radius: 5px;*/
 }
