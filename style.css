@@ -53,11 +53,12 @@
 }
 
 .container .card{
+  display: flex;
   background-color: orange;
+  justify-content: space-between;
   padding: 0px;
   margin-top: 0px;
   border-radius: 5px;
-  justify-content: space-between;
 }
 
 .container .card .blogimg{
