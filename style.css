@@ -52,18 +52,15 @@
   }
 }
 
-.container .card{
-  display: flex;
+.container .box .card{
   background-color: orange;
-  justify-content: space-between;
+  width: 100%;
   padding: 0px;
   margin-top: 0px;
   border-radius: 5px;
 }
 
-.container .card .blogimg{
+.container .box .card .blogimg{
   background-color: #aaa;
-  width: 100%;
   padding: 0px;
-  border-radius: 5px;
 }
