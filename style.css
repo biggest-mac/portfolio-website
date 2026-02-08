@@ -1,3 +1,35 @@
+
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+/*This will line everything up into one column*/
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 h1 {
   font-family: "Lucida Console", "Courier New", monospace;
   color: tomato;
@@ -19,5 +51,5 @@ body {
 body {
   background-image: url("../MEAT AND POTATOES/images/onmyputer.jpg");
 }
-
+*/
 
