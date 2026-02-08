@@ -1,3 +1,22 @@
+.navbar{
+  display: flex;
+  background-color: violet;
+}
+
+.navbar a{
+  color: white;
+  padding: 14px 20px;
+  text-decoratiom: none;
+  text-align: center;
+}
+
+/*Change color on navbar hover
+.navbar a:hover{
+  background-color: white;
+  color: black;
+}
+*/
+
 
 {
   margin: 0;
