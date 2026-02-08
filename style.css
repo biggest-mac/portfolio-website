@@ -56,11 +56,11 @@
   background-color: orange;
   padding: 0px;
   margin-top: 0px;
+  border-radius: 5px;
 }
 
 .container .card .blogimg{
   background-color: #aaa;
   width: 100%;
   padding: 0px;
-  border-radius: 5px;
 }
