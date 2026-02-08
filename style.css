@@ -5,6 +5,7 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+
 /*For the gallery.html page*/
 /*This will line everything in the container tag into one column*/
 .container{
@@ -16,6 +17,7 @@
   margin: 40px 20px 0px 20px;
 }
 
+/*Styling for the heading*/
 .container .heading{
   font-size: 3em;
   font-weight: normal;
@@ -23,6 +25,7 @@
   border-bottom: 1px solid #222;
 }
 
+/*Creating the 3 columns*/
 .container .box{
   display: flex;
   flex-direction: row;
@@ -30,6 +33,12 @@
   align-items: center;
 }
 
+/*Styling the columns*/
+.container .box .dream{
+  display: flex;
+  flex-direction: column;
+  width: 32.5%;
+}
 
 
 
