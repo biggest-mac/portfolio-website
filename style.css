@@ -39,5 +39,5 @@
 /*Styling the individual images (adding padding, image width within the column)*/
 .container .box .dream img{
   width: 100%;
-  padding-bottom: 15px;
+  padding-bottom: 10px;
 }
