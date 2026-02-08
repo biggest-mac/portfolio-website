@@ -19,10 +19,9 @@
 
 /*Styling for the heading*/
 .container .heading{
-  font-size: 3em;
-  font-weight: normal;
-  padding-bottom: 10px;
+  width: 50%;
   border-bottom: 1px solid #222;
+  padding-bottom: 50px;
 }
 
 /*Creating the 3 columns*/
