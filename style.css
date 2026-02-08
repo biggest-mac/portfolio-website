@@ -19,8 +19,6 @@
 
 /*Styling for the heading*/
 .container .heading{
-  width: 50%;
-  border-bottom: 1px solid #222;
   padding-bottom: 50px;
 }
 
@@ -38,6 +36,7 @@
   width: 32.5%;
 }
 
+/*Styling the individual images (adding padding, image width within the column)*/
 .container .box .dream img{
   width: 100%;
   padding-bottom: 15px;
