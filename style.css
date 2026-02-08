@@ -52,13 +52,13 @@
   }
 }
 
-.card{
+.container .card{
   background-color: orange;
   padding: 20px;
   margin-top: 20px;
 }
 
-.blogimg{
+.container .blogimg{
   background-color: #aaa;
   width: 100%;
   padding: 20px;
