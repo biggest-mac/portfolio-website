@@ -1,3 +1,4 @@
+
 *{
   box-sizing: border-box;
   font-family: "Mona Sans", "Courier New", monospace;
@@ -54,6 +55,12 @@
 
 /*Styling the individual images (adding padding, image width within the column)*/
 .container .box .dream img{
+  width: 100%;
+  padding-bottom: 10px;
+  border-radius: 5px;
+}
+
+.container .box .dream .card{
   width: 100%;
   padding-bottom: 10px;
   border-radius: 5px;
