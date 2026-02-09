@@ -56,7 +56,6 @@
 /*Styling the individual images (adding padding, image width within the column)*/
 .container .box .gallerybody img{
   width: 100%;
-  padding-top: 10px;
   padding-bottom: 10px;
 }
 
@@ -77,10 +76,12 @@
 }
 
 .container .box .card{
-  background-color: white;
+  display: flex;
+  flex-direction: column;
   width: 100%;
   margin-top: 0px;
   padding-bottom: 10px;
+  background-color: white;
 }
 
 .container .box .card .blogimg{
