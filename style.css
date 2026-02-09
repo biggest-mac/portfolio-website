@@ -43,7 +43,9 @@
 .container .box{
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  text-align: left;
+  justify-content: space-evenly;
+  padding: 30px;
 }
 
 .container .box .article{
