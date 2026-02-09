@@ -9,7 +9,7 @@ body {
 
 .navbar{
   display: flex;
-  background-color: lightgray;
+  background-color: white;
 }
 
 .navbar a{
