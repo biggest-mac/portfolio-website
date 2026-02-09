@@ -56,7 +56,7 @@
 .container .box .writingbody{
   display: flex;
   flex-direction: column;
-  width: 25%;
+  width: 100%;
 }
 
 /*Styling the individual images (adding padding, image width within the column)*/
