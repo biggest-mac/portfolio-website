@@ -22,20 +22,21 @@
   color: white;
 }
 
-/*For the gallery.html page*/
-/*This will line everything in the container tag into one column*/
 .container{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
   align-items: center;
   text-align: left;
   margin: 40px 20px 0px 20px;
 }
 
-/*Styling for the heading*/
-.container .heading{
-  padding-bottom: 50px;
+.container .box{
+  display: flex;
+  flex-direction: row;
+  text-align: left;
+  justify-content: space-evenly;
+  padding: 30px;
 }
 
 /*Creating the 3 columns*/
@@ -43,6 +44,11 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+}
+
+.container .box .article{
+   width: 100%;
+   text-align: left;
 }
 
 /*Styling the columns*/
