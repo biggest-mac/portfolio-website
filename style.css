@@ -19,7 +19,7 @@
 
 /*Change color on navbar hover*/
 .navbar a:hover{
-  background-color: violet;
+  background-color: #333;
   color: white;
 }
 
