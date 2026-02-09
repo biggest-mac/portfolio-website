@@ -1,7 +1,9 @@
-body{
-  font-family: monospace;
+{
+  box-sizing: border-box;
   margin: 0;
-} 
+  padding: 0;
+  font-family: monospace;
+}
 
 .navbar{
   display: flex;
@@ -15,18 +17,10 @@ body{
   text-align: center;
 }
 
-/*Change color on navbar hover
+/*Change color on navbar hover*/
 .navbar a:hover{
   background-color: white;
   color: black;
-}
-*/
-
-
-{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
 }
 
 /*For the gallery.html page*/
