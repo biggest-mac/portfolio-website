@@ -7,11 +7,11 @@
 
 .navbar{
   display: flex;
-  background-color: violet;
+  background-color: white;
 }
 
 .navbar a{
-  color: white;
+  color: #333;
   padding: 14px 20px;
   text-decoration: none;
   text-align: center;
@@ -19,8 +19,8 @@
 
 /*Change color on navbar hover*/
 .navbar a:hover{
-  background-color: white;
-  color: black;
+  background-color: violet;
+  color: white;
 }
 
 /*For the gallery.html page*/
